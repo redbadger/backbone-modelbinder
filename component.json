@@ -1,0 +1,13 @@
+{
+  "name": "backbone.modelbinder",
+  "version": "0.1.6",
+  "main": "backbone.modelbinder.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AndreyM/Backbone.ModelBinder"
+  },
+  "dependencies": {
+    "backbone" : "latest",
+    "jquery" : "latest"
+  }
+}
