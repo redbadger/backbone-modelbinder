@@ -4,7 +4,7 @@
   "main": "backbone.modelbinder.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/AndreyM/Backbone.ModelBinder"
+    "url": "git://github.com/AndreyM/backbone-modelbinder"
   },
   "dependencies": {
     "backbone" : "latest",
