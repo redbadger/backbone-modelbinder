@@ -7,7 +7,7 @@
     "url": "git://github.com/AndreyM/backbone-modelbinder"
   },
   "dependencies": {
-    "components/backbone" : "*",
-    "component/jquery" : "*"
+    "backbone" : "latest",
+    "jquery" : "latest"
   }
 }
